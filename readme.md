@@ -177,3 +177,5 @@ En `GET /personas` la consulta usa `selectCvCiego()` para traer de la base de da
 - Los datos sensibles no entran al listado público, ni siquiera en memoria
 
 La respuesta JSON al cliente **no cambia**; solo se optimiza la consulta interna.
+
+### Integrante: Luis Hernandez
